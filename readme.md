@@ -16,6 +16,7 @@
 1.  `git clone git@github.com:VPDong/vpdong.github.io.git -b doc blog-doc`
 2.  `cd ./blog-doc/hexo-blog`
 3.  `npm install`
+4.  `npm audit fix`
 
 #### 使用说明
 

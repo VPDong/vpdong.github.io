@@ -26,5 +26,5 @@
 /local.properties
 
 .deploy_git
-./public
-./db.json
+db.json
+public
