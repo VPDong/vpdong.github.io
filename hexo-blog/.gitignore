@@ -24,3 +24,6 @@
 /build-small
 /node_modules
 /local.properties
+
+.deploy_git
+./public
